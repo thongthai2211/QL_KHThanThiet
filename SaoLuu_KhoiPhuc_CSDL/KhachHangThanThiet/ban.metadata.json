@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"KhachHangThanThiet.ban"}],"uuid":"ac772b8d9e2844ecb0a30c857d88d644"}

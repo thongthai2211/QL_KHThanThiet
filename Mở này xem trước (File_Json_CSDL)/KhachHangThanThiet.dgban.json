@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65218e513aaa4e365f5f547d"
+  },
+  "SoGioThue": "1 giờ",
+  "TienThueBan": 60000
+},
+{
+  "_id": {
+    "$oid": "65218e513aaa4e365f5f547e"
+  },
+  "SoGioThue": "1,5 giờ",
+  "TienThueBan": 85000
+},
+{
+  "_id": {
+    "$oid": "65218e513aaa4e365f5f547f"
+  },
+  "SoGioThue": "2 giờ",
+  "TienThueBan": 110000
+},
+{
+  "_id": {
+    "$oid": "65218e513aaa4e365f5f5480"
+  },
+  "SoGioThue": "2,5 giờ",
+  "TienThueBan": 135000
+},
+{
+  "_id": {
+    "$oid": "65218e513aaa4e365f5f5481"
+  },
+  "SoGioThue": "3 giờ",
+  "TienThueBan": 160000
+}]

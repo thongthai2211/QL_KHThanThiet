@@ -1,0 +1,15 @@
+1. Vào nút Windown trên bàn phím vào mục tìm kiếm nhập "View advanced system settings" -> nhấn vào "Environment Variables..."
+-> Nhấn vào "Path" và copy đường dẫn "C:\Program Files\MongoDB\Server\4.2\bin" vào rồi nhấn OK
+
+2. vào thư mục "C:\Program Files\MongoDB\Server\4.2\bin" và nhấn tổ hợp phím "Shift + chuột phải" nhấn vào "Open PowerShell window here"
+
+3.
+Sao lưu:
+ mongorestore -d KhachHangThanThiet "C:\Users\DELL\Desktop\KhachHangThanThiet\SaoLuu_KhoiPhuc_CSDL"
+
+hoặc:
+
+Phục hồi:
+mongorestore -d KhachHangThanThiet "C:\Users\DELL\Desktop\KhachHangThanThiet\SaoLuu_KhoiPhuc_CSDL\KhachHangThanThiet"
+
+(Lưu ý: nhớ đổi đường dẫn lại "C:\Users\DELL\Desktop\KhachHangThanThiet\...")

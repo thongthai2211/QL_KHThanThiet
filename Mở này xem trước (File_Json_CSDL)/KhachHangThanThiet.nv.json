@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63590"
+  },
+  "Manv": "admin",
+  "Ten": "Nguyễn Thông Thái",
+  "Gioitinh": "Nam",
+  "Ngaysinh": "2002-11-22",
+  "Sdt": "0908765744",
+  "Sobanphucvu": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "Diachi": "Tân Phú",
+  "Email": "nguyenthongthai@gmail.com",
+  "Vitri": "Quản Lý",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63591"
+  },
+  "Manv": "nv1",
+  "Ten": "Đặng Thị Huỳnh Như",
+  "Gioitinh": "Nữ",
+  "Ngaysinh": "2002-01-21",
+  "Sdt": "0908765744",
+  "Sobanphucvu": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "Diachi": "Trường Chinh",
+  "Email": "dangthihuynhnhu@gmail.com",
+  "Vitri": "Thu ngân",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63592"
+  },
+  "Manv": "nv2",
+  "Ten": "Nguyễn Thị Thảo",
+  "Gioitinh": "Nữ",
+  "Ngaysinh": "1996-11-15",
+  "Sdt": "0923456789",
+  "Sobanphucvu": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "Diachi": "Phạm Ngọc Thạch",
+  "Email": "nguyenthithao@gmail.com",
+  "Vitri": "Thu ngân",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63593"
+  },
+  "Manv": "nv3",
+  "Ten": "Trần Đức Anh",
+  "Gioitinh": "Nam",
+  "Ngaysinh": "1998-05-14",
+  "Sdt": "0908123456",
+  "Sobanphucvu": [
+    "1",
+    "2",
+    "3"
+  ],
+  "Diachi": "Lê Lợi",
+  "Email": "tranducanh@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63594"
+  },
+  "Manv": "nv4",
+  "Ten": "Phạm Thị Bình",
+  "Gioitinh": "Nữ",
+  "Ngaysinh": "1997-07-23",
+  "Sdt": "0918234567",
+  "Sobanphucvu": [
+    "4",
+    "5",
+    "6"
+  ],
+  "Diachi": "Phan Đình Phùng",
+  "Email": "phamthibinh@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "65214ccbc1979ca05df63595"
+  },
+  "Manv": "nv5",
+  "Ten": "Vũ Minh Châu",
+  "Gioitinh": "Nam",
+  "Ngaysinh": "1999-09-02",
+  "Sdt": "0928345678",
+  "Sobanphucvu": [
+    "7",
+    "8",
+    "9"
+  ],
+  "Diachi": "Nguyễn Trãi",
+  "Email": "vuminhchau@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": "5000000"
+},
+{
+  "_id": {
+    "$oid": "652cd985f87f0634c97780fd"
+  },
+  "Manv": "nv6",
+  "Ten": "Lê Thị Thơm",
+  "Gioitinh": "Nữ",
+  "Ngaysinh": {
+    "$date": "2000-12-10T17:00:00.000Z"
+  },
+  "Sdt": "0938456789",
+  "Sobanphucvu": [
+    "10",
+    "11"
+  ],
+  "Diachi": "Trần Hưng Đạo",
+  "Email": "lethidung@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": 5000000
+},
+{
+  "_id": {
+    "$oid": "652cda9c49322ef2397b6b62"
+  },
+  "Manv": "nv7",
+  "Ten": "Lê Thị Thắm",
+  "Gioitinh": "Nữ",
+  "Ngaysinh": {
+    "$date": "2000-12-10T17:00:00.000Z"
+  },
+  "Sdt": "0938456789",
+  "Sobanphucvu": [
+    "12",
+    "13"
+  ],
+  "Diachi": "Trần Hưng Đạo",
+  "Email": "lethidung@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": 5000000
+},
+{
+  "_id": {
+    "$oid": "652dddd8721b19bdffb0a19e"
+  },
+  "Manv": "nv8",
+  "Ten": "Lê Hoàng Huy Đào",
+  "Gioitinh": "Nam",
+  "Ngaysinh": {
+    "$date": "2000-12-10T17:00:00.000Z"
+  },
+  "Sdt": "0938456789",
+  "Sobanphucvu": [
+    "14",
+    "15",
+    "16",
+    "17"
+  ],
+  "Diachi": "Trần Hưng Đạo",
+  "Email": "lethidung@gmail.com",
+  "Vitri": "Phục vụ",
+  "Luong": 5000000
+}]

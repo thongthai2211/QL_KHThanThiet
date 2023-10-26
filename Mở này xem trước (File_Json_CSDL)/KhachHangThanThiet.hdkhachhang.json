@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "652e05088e0ea5350dc2a6a5"
+  },
+  "MaHoaDon": "HD20231017105240",
+  "MaKH": "KH20231017105240",
+  "SoBan": "6",
+  "TenKH": "NGUYEN QUANG MINH",
+  "GioiTinh": "Nam",
+  "Ngaysinh": {
+    "$date": "2002-05-11T17:00:00.000Z"
+  },
+  "DiaChi": "QUAN 9",
+  "Sdt": "0123456789",
+  "NgheNghiep": "sinh vien",
+  "Email": "quangminh123@gmail.com",
+  "NhanVienPhucVu": "Phạm Thị Bình",
+  "SoGioThue": "1,5 giờ",
+  "TienThueBan": 85000,
+  "ThoiGianBatDau": {
+    "$date": "2023-08-17T03:52:40.386Z"
+  },
+  "ThoiGianKetThuc": {
+    "$date": "2023-08-17T05:22:40.386Z"
+  },
+  "ThanhTien": "85000"
+},
+{
+  "_id": {
+    "$oid": "652e056d8e0ea5350dc2a6a8"
+  },
+  "MaHoaDon": "HD20231017105421",
+  "MaKH": "KH20231017105421",
+  "SoBan": "14",
+  "TenKH": "NGUYEN THI MY DUYEN",
+  "GioiTinh": "Nữ",
+  "Ngaysinh": {
+    "$date": "2000-02-13T17:00:00.000Z"
+  },
+  "DiaChi": "TAN BINH",
+  "Sdt": "0456321789",
+  "NgheNghiep": "KE TOAN",
+  "Email": "myduyen123@gmail.com",
+  "NhanVienPhucVu": "Lê Hoàng Huy Đào",
+  "SoGioThue": "1,5 giờ",
+  "TienThueBan": 85000,
+  "ThoiGianBatDau": {
+    "$date": "2023-09-17T03:54:21.596Z"
+  },
+  "ThoiGianKetThuc": {
+    "$date": "2023-09-17T05:24:21.596Z"
+  },
+  "ThanhTien": "85000"
+},
+{
+  "_id": {
+    "$oid": "652e05ae8e0ea5350dc2a6ab"
+  },
+  "MaHoaDon": "HD20231017105526",
+  "MaKH": "KH20231017105526",
+  "SoBan": "14",
+  "TenKH": "NGUYEN THONG THAI",
+  "GioiTinh": "Nam",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "DiaChi": "TAN PHU",
+  "Sdt": "0123456780",
+  "NgheNghiep": "SINH VIEN",
+  "Email": "thongthai212@gmail.com",
+  "NhanVienPhucVu": "Lê Hoàng Huy Đào",
+  "SoGioThue": "1,5 giờ",
+  "TienThueBan": 85000,
+  "ThoiGianBatDau": {
+    "$date": "2023-10-05T03:55:26.309Z"
+  },
+  "ThoiGianKetThuc": {
+    "$date": "2023-10-05T05:25:26.309Z"
+  },
+  "ThanhTien": "85000"
+},
+{
+  "_id": {
+    "$oid": "652e05d98e0ea5350dc2a6ae"
+  },
+  "MaHoaDon": "HD20231017105609",
+  "MaKH": "KH20231017105609",
+  "SoBan": "9",
+  "TenKH": "NGUYEN THONG THAI",
+  "GioiTinh": "Nam",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "DiaChi": "TAN PHU",
+  "Sdt": "0123456780",
+  "NgheNghiep": "sinh vien",
+  "Email": "thongthai212@gmail.com",
+  "NhanVienPhucVu": "Vũ Minh Châu",
+  "SoGioThue": "1 giờ",
+  "TienThueBan": 60000,
+  "ThoiGianBatDau": {
+    "$date": "2023-10-10T03:56:09.385Z"
+  },
+  "ThoiGianKetThuc": {
+    "$date": "2023-10-10T04:56:09.385Z"
+  },
+  "ThanhTien": "60000"
+},
+{
+  "_id": {
+    "$oid": "652e06008e0ea5350dc2a6b1"
+  },
+  "MaHoaDon": "HD20231017105648",
+  "MaKH": "KH20231017105648",
+  "SoBan": "7",
+  "TenKH": "NGUYEN THONG THAI",
+  "GioiTinh": "Nam",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "DiaChi": "TAN PHU",
+  "Sdt": "0123456780",
+  "NgheNghiep": "SINH VIEN",
+  "Email": "thongthai212@gmail.com",
+  "NhanVienPhucVu": "Vũ Minh Châu",
+  "SoGioThue": "2 giờ",
+  "TienThueBan": 110000,
+  "ThoiGianBatDau": {
+    "$date": "2023-10-17T03:56:48.530Z"
+  },
+  "ThoiGianKetThuc": {
+    "$date": "2023-10-17T05:56:48.530Z"
+  },
+  "ThanhTien": "110000"
+}]

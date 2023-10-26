@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65201576933442ce471b4f7a"
+  },
+  "Username": "admin",
+  "Password": "admin",
+  "Role": "Quản lý"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9feccc"
+  },
+  "Username": "nv1",
+  "Password": "123",
+  "Role": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9feccd"
+  },
+  "Username": "nv2",
+  "Password": "123",
+  "Role": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9fecce"
+  },
+  "Username": "nv3",
+  "Password": "123",
+  "Role": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9feccf"
+  },
+  "Username": "nv4",
+  "Password": "123",
+  "Role": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9fecd0"
+  },
+  "Username": "nv5",
+  "Password": "123",
+  "Role": "Nhân viên"
+},
+{
+  "_id": {
+    "$oid": "652051925d9c8377fd9fecd1"
+  },
+  "Username": "nv6",
+  "Password": "123",
+  "Role": "Nhân viên"
+}]

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"KhachHangThanThiet.Users"}],"uuid":"261a6b3849a54b3ca526c26863da24e3"}

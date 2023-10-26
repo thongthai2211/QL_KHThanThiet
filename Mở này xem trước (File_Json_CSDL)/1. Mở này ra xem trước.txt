@@ -1,0 +1,2 @@
+1. Chỉ cần import các colection như: User, ban, dgban, nv là được, vì những cái còn lại tự sinh ra (nếu muốn có dữ liệu sẵn thì mới import những cái còn lại vào)
+2. Chạy code :)

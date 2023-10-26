@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "652e05098e0ea5350dc2a6a6"
+  },
+  "MaKH": "KH20231017105240",
+  "Ten": "NGUYEN QUANG MINH",
+  "Ngaysinh": {
+    "$date": "2002-05-11T17:00:00.000Z"
+  },
+  "Sdt": "0123456789",
+  "Soban": "6",
+  "Diachi": "QUAN 9",
+  "Email": "quangminh123@gmail.com",
+  "Nghenghiep": "sinh vien"
+},
+{
+  "_id": {
+    "$oid": "652e056e8e0ea5350dc2a6a9"
+  },
+  "MaKH": "KH20231017105421",
+  "Ten": "NGUYEN THI MY DUYEN",
+  "Ngaysinh": {
+    "$date": "2000-02-13T17:00:00.000Z"
+  },
+  "Sdt": "0456321789",
+  "Soban": "14",
+  "Diachi": "TAN BINH",
+  "Email": "myduyen123@gmail.com",
+  "Nghenghiep": "KE TOAN"
+},
+{
+  "_id": {
+    "$oid": "652e05af8e0ea5350dc2a6ac"
+  },
+  "MaKH": "KH20231017105526",
+  "Ten": "NGUYEN THONG THAI",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "Sdt": "0123456780",
+  "Soban": "14",
+  "Diachi": "TAN PHU",
+  "Email": "thongthai212@gmail.com",
+  "Nghenghiep": "SINH VIEN"
+},
+{
+  "_id": {
+    "$oid": "652e05da8e0ea5350dc2a6af"
+  },
+  "MaKH": "KH20231017105609",
+  "Ten": "NGUYEN THONG THAI",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "Sdt": "0123456780",
+  "Soban": "9",
+  "Diachi": "TAN PHU",
+  "Email": "thongthai212@gmail.com",
+  "Nghenghiep": "sinh vien"
+},
+{
+  "_id": {
+    "$oid": "652e06018e0ea5350dc2a6b2"
+  },
+  "MaKH": "KH20231017105648",
+  "Ten": "NGUYEN THONG THAI",
+  "Ngaysinh": {
+    "$date": "2002-11-21T17:00:00.000Z"
+  },
+  "Sdt": "0123456780",
+  "Soban": "7",
+  "Diachi": "TAN PHU",
+  "Email": "thongthai212@gmail.com",
+  "Nghenghiep": "SINH VIEN"
+}]
